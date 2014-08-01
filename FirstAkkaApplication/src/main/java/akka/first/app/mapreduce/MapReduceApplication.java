@@ -17,6 +17,7 @@ public class MapReduceApplication {
 		master.tell("The quick brown fox tried to jump over the lazy dog and fell on the dog");
 		master.tell("Dog is man's best friend");
 		master.tell("Dog and Fox belong to the same family");
+		master.tell("Let's add source code into github");//peter edit 8-1-14
 		
 		Thread.sleep(500);
 		
